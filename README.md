@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moriya Katan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project in html, css, javascript, react. 
 - 📫 How to reach me: https://www.linkedin.com/in/moriya-katan-5248316b/
 
 <!---
