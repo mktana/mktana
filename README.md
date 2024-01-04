@@ -1,10 +1,19 @@
-<h2> 👋 Hi, I’m Moriya Katan </h2>
+### 👋 Hi, I’m Moriya Katan 
+### 🌱 I'm a versatile Full Stack Developer passionate about creating innovative web solutions.
 
-<h4> 👀 I’m interested in React, Vue, Javascript and more. </h4>
-<h4> 🌱 I'm currently learning fullstack development </h4>
-<h4> 💞️ I’m looking to collaborate on any project in javascript & react.  </h4>
-<h4> 🎀 & I'm "she codes;" Team member  </h4>
-<h4> 📫 How to reach me: <a href="https://www.linkedin.com/in/moriya-katan-5248316b/" trget="_blank">linkedin</a> | <a href="mailto:moriyakatan@gmail.com">Gmail</a></h4>
+### 👀 Actively seeking collaborations on JavaScript and React projects to push boundaries and craft impactful applications.
+
+### 🛠️ My kit includes:
+- **Front-end:** JavaScript, HTML, CSS, React, TypeScript
+- **Back-end:** Node.js, Express.js
+- **Database:** MongoDB, Firebase
+
+### 🎀 Proud 'she codes;' Team member.
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/moriya-katan-5248316b/)
+- [Gmail](mailto:moriyakatan@gmail.com)
+
 <!---
 mktana/mktana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
