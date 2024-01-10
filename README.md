@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Moriya Katan 
-### 🌱 I'm a versatile Full Stack Developer passionate about creating innovative web solutions.
+### 🌱 I'm a Full Stack Developer passionate about creating innovative web solutions.
 
 ### 👀 Actively seeking collaborations on JavaScript and React projects to push boundaries and craft impactful applications.
 
