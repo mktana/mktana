@@ -4,7 +4,7 @@
 ### 👀 Actively seeking collaborations on JavaScript and React projects to push boundaries and craft impactful applications.
 
 ### 🛠️ My kit includes:
-- **Front-end:** JavaScript, HTML, CSS, React, TypeScript
+- **Front-end:** JavaScript, React, TypeScript, Sass
 - **Back-end:** Node.js, Express.js
 - **Database:** MongoDB, Firebase
 
